@@ -21,7 +21,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=akibhossainrahul&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=akibhossainrahul&theme=great-gatsby&no-frame=false&no-bg=true&margin-w=4)
+<img width="1070" height="182" alt="image" src="https://github.com/user-attachments/assets/d2ee0f9a-5ccd-49da-971f-1e03e4e7da92" />
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
