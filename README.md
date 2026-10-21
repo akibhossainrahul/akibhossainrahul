@@ -21,11 +21,11 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=akibhossainrahul&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
+
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akibhosainrahul&theme=darkhub&no-frame=true&margin-w=8" alt="GitHub Trophies" />
-</p>
+[![GitHub Trophies](https://trophygithubreadmelang.cybee.dpdns.org/?username=akibhosainrahul&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ### ✍️ Random Dev Quote
