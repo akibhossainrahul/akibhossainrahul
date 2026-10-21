@@ -20,8 +20,13 @@
 ![](https://streak-stats.demolab.com/?user=akibhossainrahul&theme=flag-india&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=akibhossainrahul&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=akibhosainrahul&theme=darkhub&no-frame=true&margin-w=8" alt="GitHub Trophies" />
+</p>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
